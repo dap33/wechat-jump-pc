@@ -72,7 +72,7 @@ python select_region.py
 
 | 参数 | 默认值 | 说明 |
 |------|--------|------|
-| `press_coefficient` | 1.583 | 按压时间系数，越大跳越远。范围 0.5~5.0 |
+| `press_coefficient` | 2.000 | 按压时间系数，越大跳越远。范围 0.5~5.0 |
 | `head_diameter` | 自动 | 棋子头部直径（px），影响像素距离到物理距离的换算 |
 | `piece_base_height_1_2` | 20 | 棋子底座半高，影响棋子底部定位 |
 | `piece_body_width` | 70 | 棋子身体宽度，用于扫描时排除棋子区域 |
