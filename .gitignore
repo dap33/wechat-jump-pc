@@ -1,0 +1,19 @@
+# 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 截图备份
+screenshot_backups/
+
+# 配置
+config/pc_region.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
